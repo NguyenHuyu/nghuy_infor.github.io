@@ -650,7 +650,7 @@ video {
     align-items: center;
    }
    .video-p {
-    margin-right: 0
+    margin-right: 0;
    }
   }
  }
@@ -1084,7 +1084,6 @@ button.vjs-play-control.vjs-control.vjs-button {
   max-height: 100%;
  }
 }
-
 
 ::-webkit-scrollbar {
  width: 6px;
